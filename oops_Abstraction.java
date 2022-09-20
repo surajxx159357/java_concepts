@@ -44,3 +44,18 @@ public class Abstract{
 
 
 
+
+// Abstraction is achieved in two ways
+// 1)Abstraction class
+// 2)Interfaces(pure Abstraction)
+
+// Properties of Abstraction
+// 1)Abstraction Class
+
+// i)   Abstraction class must be declared with abstract keyword
+// ii)  It can have abstract or non-abstract method
+// iii) It can be Instantiated
+// iv)  It can have contructors and static methods also
+// v)   It can have final method which will force subclass not to change the body of the method
+        
+      
