@@ -12,5 +12,11 @@ public class One_D_Arrays{
         
         for(int i=0;i<month.length;i++)
         System.out.println(month[i]);  // retrieving the values of an arrays 
+        
+        
+        // Using for-each loop
+        
+        for(String name:month)  // here name variable takes all the values of month array index by index
+            System.out.println(name);
     }
 }
